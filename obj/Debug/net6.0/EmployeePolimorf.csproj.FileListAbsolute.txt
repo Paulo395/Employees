@@ -1,0 +1,15 @@
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\EmployeePolimorf\EmployeePolimorf\bin\Debug\net6.0\EmployeePolimorf.exe
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\EmployeePolimorf\EmployeePolimorf\bin\Debug\net6.0\EmployeePolimorf.deps.json
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\EmployeePolimorf\EmployeePolimorf\bin\Debug\net6.0\EmployeePolimorf.runtimeconfig.json
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\EmployeePolimorf\EmployeePolimorf\bin\Debug\net6.0\EmployeePolimorf.dll
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\EmployeePolimorf\EmployeePolimorf\bin\Debug\net6.0\EmployeePolimorf.pdb
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\EmployeePolimorf\EmployeePolimorf\obj\Debug\net6.0\EmployeePolimorf.csproj.AssemblyReference.cache
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\EmployeePolimorf\EmployeePolimorf\obj\Debug\net6.0\EmployeePolimorf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\EmployeePolimorf\EmployeePolimorf\obj\Debug\net6.0\EmployeePolimorf.AssemblyInfoInputs.cache
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\EmployeePolimorf\EmployeePolimorf\obj\Debug\net6.0\EmployeePolimorf.AssemblyInfo.cs
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\EmployeePolimorf\EmployeePolimorf\obj\Debug\net6.0\EmployeePolimorf.csproj.CoreCompileInputs.cache
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\EmployeePolimorf\EmployeePolimorf\obj\Debug\net6.0\EmployeePolimorf.dll
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\EmployeePolimorf\EmployeePolimorf\obj\Debug\net6.0\refint\EmployeePolimorf.dll
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\EmployeePolimorf\EmployeePolimorf\obj\Debug\net6.0\EmployeePolimorf.pdb
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\EmployeePolimorf\EmployeePolimorf\obj\Debug\net6.0\EmployeePolimorf.genruntimeconfig.cache
+C:\Users\pauli\OneDrive\Área de Trabalho\C#\EstudosCSharp\EmployeePolimorf\EmployeePolimorf\obj\Debug\net6.0\ref\EmployeePolimorf.dll
